@@ -2,7 +2,7 @@
 
 **Customer Retention & Churn Analysis**
 
-**📌 Project Overview **
+📌 Project Overview 
 
 This project focuses on analyzing customer churn and retention patterns for a subscription-based business. Using Excel, the analysis identifies why customers leave, which segments are at higher risk of churn, and what actions can improve customer retention. The goal is to provide clear, business-focused insights that support data-driven decision making.
 

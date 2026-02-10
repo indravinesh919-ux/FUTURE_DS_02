@@ -1,6 +1,7 @@
 # FUTURE_DS_02
 
-Customer Retention & Churn Analysis
+**Customer Retention & Churn Analysis**
+
 📌 Project Overview
 
 This project focuses on analyzing customer churn and retention patterns for a subscription-based business. Using Microsoft Excel, the analysis identifies why customers leave, which customer segments are more likely to churn, and what actions can improve customer retention. The goal is to generate clear, business-focused insights to support data-driven decision making.

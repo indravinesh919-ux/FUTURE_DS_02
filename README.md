@@ -2,11 +2,11 @@
 
 **Customer Retention & Churn Analysis**
 
-📌 Project Overview 
+****📌 Project Overview ****
 
 This project focuses on analyzing customer churn and retention patterns for a subscription-based business. Using Excel, the analysis identifies why customers leave, which segments are at higher risk of churn, and what actions can improve customer retention. The goal is to provide clear, business-focused insights that support data-driven decision making.
 
-🎯 Business Problem
+**🎯 Business Problem**
 
 Customer churn directly impacts revenue and growth for subscription businesses. This project answers key questions such as:
 
@@ -18,7 +18,7 @@ How long do customers typically stay active?
 
 What actions can help reduce customer churn?
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 
 Microsoft Excel
 
@@ -30,7 +30,7 @@ Pivot tables and charts
 
 Interactive retention dashboard
 
-📊 Dataset
+**📊 Dataset**
 
 The analysis is based on a customer subscription dataset containing:
 
@@ -46,7 +46,7 @@ Churn status
 
 (This dataset represents a real-world subscription business churn scenario.)
 
-📈 Key Metrics Analyzed
+**📈 Key Metrics Analyzed**
 
 Total Customers
 
@@ -60,7 +60,7 @@ Customer Distribution by Contract Type
 
 Churn by Tenure Group and Payment Method
 
-🔍 Key Insights
+**🔍 Key Insights**
 
 Customers on month-to-month contracts show the highest churn rate.
 
@@ -70,7 +70,7 @@ Customers using electronic check as a payment method churn more than auto-paymen
 
 Customers with long-term contracts and bundled services demonstrate stronger retention.
 
-📉 Retention Trends
+**📉 Retention Trends**
 
 Customer retention improves significantly with longer contract durations.
 
@@ -78,7 +78,7 @@ Churn decreases as customer tenure increases.
 
 Payment automation positively influences customer lifetime and retention.
 
-🎯 Business Recommendations
+**🎯 Business Recommendations**
 
 Encourage customers to switch from month-to-month to long-term contracts using incentives.
 
@@ -88,7 +88,7 @@ Promote auto-payment methods to reduce payment-related churn.
 
 Upsell bundled services to increase customer lifetime value and engagement.
 
-📌 Final Deliverable
+**📌 Final Deliverable**
 
 A clean and interactive Excel retention dashboard
 
@@ -96,7 +96,7 @@ Clear insights into churn drivers and retention behavior
 
 Actionable recommendations suitable for business stakeholders
 
-🚀 Skills Demonstrated
+**🚀 Skills Demonstrated**
 
 Customer retention & churn analysis
 
@@ -106,6 +106,6 @@ KPI development and dashboarding
 
 Business-oriented insight generation
 
-📢 Project Outcome
+**📢 Project Outcome**
 
 This project simulates real-world work performed by data analysts in SaaS and subscription-based companies. The analysis helps stakeholders understand churn behavior and implement strategies to improve customer retention and long-term revenue growth.
